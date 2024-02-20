@@ -1,5 +1,4 @@
-# kid_gammes
-
+# Kid Games
 Just a bunch of kid games I found on the internet that seem pretty easy to code. Written in Python by me on February ... 2024.
 
 ### About this repository
